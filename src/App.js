@@ -3,7 +3,7 @@ import GlobalContainer from './GlobalContainer';
 
 function App() {
   return (
-    <div>
+    <div className='bg-gray-200'>
       <GlobalContainer />
     </div>
   );
