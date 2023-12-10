@@ -3,7 +3,7 @@ import jonathan from '../images/image-jonathan.jpg';
 
 const Box2 = () => {
     return (
-        <div className='p-10 rounded-xl bg-gray-600'>
+        <div className='p-10 rounded-xl bg-gray-600 row-start-1 md:row-auto'>
             <div className='flex space-x-4'>
                 <img src={jonathan} alt='' className='w-10 h-10 rounded-full ring-2
                    ring-purple-300' />

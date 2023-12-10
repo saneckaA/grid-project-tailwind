@@ -3,7 +3,7 @@ import kira from '../images/image-kira.jpg';
 
 const Box3 = () => {
     return (
-        <div className='p-10 rounded-xl bg-white text-gray-900'>
+        <div className='p-10 rounded-xl bg-white text-gray-900 md:row-span-2 row-end-6 md:col-auto'>
             <div className='flex space-x-4'>
                 <img src={kira} alt='' className='w-10 h-10 rounded-full ring-2
            ring-purple-300' />

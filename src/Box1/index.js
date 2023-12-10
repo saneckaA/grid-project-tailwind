@@ -4,7 +4,7 @@ import daniel from '../images/image-daniel.jpg';
 
 const Box1 = () => {
     return (
-        <div className='relative p-10 rounded-xl bg-purple-700'>
+        <div className='relative p-10 rounded-xl bg-purple-700 md:col-span-2'>
             <img src={background} alt='' className='absolute top-3 right-10 scale-0
                md:top-7 md:right-24 md:scale-150' />
             <div className='flex z-10 space-x-4'>
