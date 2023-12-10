@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/grid-project-react-tailwind/static/css/main.d12aa6a7.css",
+    "main.js": "/grid-project-react-tailwind/static/js/main.ee11c41e.js",
+    "static/js/787.24839711.chunk.js": "/grid-project-react-tailwind/static/js/787.24839711.chunk.js",
+    "index.html": "/grid-project-react-tailwind/index.html",
+    "static/media/bg-pattern-quotation.svg": "/grid-project-react-tailwind/static/media/bg-pattern-quotation.6b460e30439432820da617334668e2b6.svg",
+    "main.d12aa6a7.css.map": "/grid-project-react-tailwind/static/css/main.d12aa6a7.css.map",
+    "main.ee11c41e.js.map": "/grid-project-react-tailwind/static/js/main.ee11c41e.js.map",
+    "787.24839711.chunk.js.map": "/grid-project-react-tailwind/static/js/787.24839711.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d12aa6a7.css",
+    "static/js/main.ee11c41e.js"
+  ]
+}
